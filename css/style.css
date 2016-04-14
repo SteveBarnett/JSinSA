@@ -16,7 +16,7 @@ body {
 }
 body {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     color: #121212;
     -webkit-font-smoothing: antialiased;
 }
@@ -118,7 +118,7 @@ h1.slide-logo{
     color:#fff;
     margin-top:0;
     margin-bottom: 40px;
-    font-weight: 300;
+    font-weight: 400;
     text-transform: uppercase;
 }
 h1.slide-logo img{
@@ -128,7 +128,7 @@ h2.slide-btm-text{
     font-family: 'Open Sans', sans-serif !important;
     text-align: center;
     margin: 30px 0;
-    font-weight: 300;
+    font-weight: 400;
     color:#fff;
     font-size: 20px;
     text-transform: uppercase;
@@ -142,7 +142,7 @@ h2.slide-btm-text{
     font-size: 3em;
     color:#fff;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 60px;
     margin:0;
 }
@@ -206,7 +206,7 @@ bootstrap navbar overrides
     background-color: transparent;
 }
 .navbar-default .navbar-brand{
-    font-weight: 800;
+    font-weight: 700;
     text-transform: uppercase;
     color:#000;
     margin:0px;
@@ -308,7 +308,7 @@ body.modal-open {
     padding-bottom: 5px;
     border-bottom: 1px solid #666;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 700;
 }
 .section-heading .large{
     font-weight: 400;
@@ -427,7 +427,7 @@ blog section css here
 }
 .more-link a{
     color:#35bdf6;
-    font-weight: 600;
+    font-weight: 700;
 
 }
 
@@ -614,7 +614,7 @@ h3.heading-progress {
     margin-top: 0px;
     margin-bottom: 30px;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     color:#fff;
 }
 .sponsors-section-2 p{
@@ -648,7 +648,7 @@ h3.heading-progress {
 }
 .services-info h3{
     margin-top: 0;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 20px;
 }
 .services-right img{
@@ -663,7 +663,7 @@ h3.heading-progress {
     margin-top: 0;
     margin-bottom: 30px;
     color:#FFF;
-    font-weight: 300;
+    font-weight: 400;
 }
 .services-section-2 .newsletter-form input{
     border:none;
@@ -1012,7 +1012,7 @@ bootstrap overrides badge and pagination
     margin-top: 0px;
     margin-bottom: 30px;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     color:#fff;
 }
 .speakers-section-2 p{
@@ -1057,7 +1057,7 @@ bootstrap overrides badge and pagination
     color:#35bdf6;
 }
 .contact-col p{
-    font-weight: 300;
+    font-weight: 400;
     font-size: 18px;
 }
 /***footer*/
@@ -1079,7 +1079,7 @@ bootstrap overrides badge and pagination
 .footer-nav ul li a{
     color:#fff;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 11px;
 }
 
@@ -1151,7 +1151,7 @@ bootstrap overrides badge and pagination
     margin-top: 0px;
     margin-bottom: 30px;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     color:#fff;
 }
 .register-section-2 p{
@@ -1215,7 +1215,7 @@ bootstrap overrides badge and pagination
     }
     .main-flex-slider h1{
         font-size: 2em;
-        font-weight: 300;
+        font-weight: 400;
         margin-bottom: 30px;
     }
     .home-arrow-down{
@@ -1276,7 +1276,7 @@ iframe{
 }
 .fact-inner h4{
     color:#fff;
-    font-weight: 200;
+    font-weight: 400;
     margin-bottom: 0;
 }
 
@@ -1287,7 +1287,7 @@ iframe{
 }
 .testi h4{
     color:#fff;
-    font-weight: 200;
+    font-weight: 400;
     line-height: 36px;
 }
 .testi p{
@@ -1306,7 +1306,7 @@ iframe{
 }
 .soon h2{
     margin-bottom: 60px;  
-    font-weight: 200;
+    font-weight: 400;
     color:#777;
 }
 .soon-form .form-control{
